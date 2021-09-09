@@ -9,3 +9,4 @@
 - [08/13/21 Min And Max](min-and-max.md)
 - [08/14/21 Rotate String](rotate-string.md)
 - [08/15/21 Count Twos](count-twos.md)
+- [08/16/21 Merge Sorted Arrays](merge-sorted-arrays.md)
