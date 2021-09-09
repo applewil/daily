@@ -12,7 +12,7 @@ B = [2, 4, 7]
 # Solution
 
 ```java
-void reorderFirstElements(int[] array) {
+private void reorderFirstElements(int[] array) {
   if (array.length > 1 && array[0] > array[1]) {
     var temp = array[0];
     array[0] = array[1];
