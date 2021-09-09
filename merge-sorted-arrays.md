@@ -1,6 +1,6 @@
 # Specification
 
-Given two sorted arrays A and B, merge B into A. Assume array A has exactly enough space to hold it's own elements and Array B's elements.
+Given two sorted arrays A and B, merge B into A. Assume array A has exactly enough space to hold it's own elements and array B's elements.
 
 ```
 A = [1, 3, 5, 6, 0, 0, 0] 
