@@ -10,3 +10,4 @@
 - [08/14/21 Rotate String](rotate-string.md)
 - [08/15/21 Count Twos](count-twos.md)
 - [08/16/21 Merge Sorted Arrays](merge-sorted-arrays.md)
+- [08/17/21 Sum Pairs](sum-pairs.md)
