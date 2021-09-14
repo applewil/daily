@@ -11,3 +11,4 @@
 - [08/15/21 Count Twos](count-twos.md)
 - [08/16/21 Merge Sorted Arrays](merge-sorted-arrays.md)
 - [08/17/21 Sum Pairs](sum-pairs.md)
+- [08/18/21 Palindrome](palindrome.md)
